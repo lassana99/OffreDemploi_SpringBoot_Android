@@ -40,9 +40,12 @@ Et les les recruteurs aussi, sont capables de visualiser l'ensemble des qui sont
 ### Voici cette visualisation:
 
 ![cv1](https://user-images.githubusercontent.com/120748789/227185997-e24fd569-b996-4ab9-81e9-65bfb09b18a0.jpg)
+
 ![cv2](https://user-images.githubusercontent.com/120748789/227186047-8098ba59-289d-440f-956d-829a00a7f935.jpg)
+
 ![cv3](https://user-images.githubusercontent.com/120748789/227186078-400cf941-31e1-40e9-80d5-59daa7f9e201.jpg)
+
 ![cv4](https://user-images.githubusercontent.com/120748789/227186107-00681cf1-f202-475f-95ab-17ff432c66db.jpg)
 
 ## Conclusion:
-En guise de conclusion, on peut dire que la réalisation de ce projet nous a permis de de découvrir et de comprendre beaucoup de notion du développement d'application mobile plus précisement l'interconnexion entre le BackEnd (IntelliJ) et le FrontENd (AndroidStudio).
+#### En guise de conclusion, on peut dire que la réalisation de ce projet nous a permis de de découvrir et de comprendre beaucoup de notion du développement d'application mobile plus précisement l'interconnexion entre le BackEnd (IntelliJ) et le FrontENd (AndroidStudio).
